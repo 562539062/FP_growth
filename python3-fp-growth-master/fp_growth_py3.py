@@ -15,6 +15,8 @@ Note:
 """
 from collections import defaultdict, namedtuple
 
+from torch import long
+
 # original author information, this verison is updated by lina.
 __author__ = 'Eric Naeseth <eric@naeseth.com>'
 __copyright__ = 'Copyright © 2009 Eric Naeseth'
